@@ -1,0 +1,10 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    sum_result = a+b
+    subtract_result = a-b
+    multi_result = a*b
+    print(sum_result)
+    print(subtract_result)
+    print(multi_result)
+    
